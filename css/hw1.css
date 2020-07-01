@@ -65,6 +65,7 @@ img{
 	margin-right: 2%;
 	display:inline-block;
 	float:left;
+	padding-left: 22%;
 }
 nav{
 	width: 20%;
@@ -72,8 +73,8 @@ nav{
 	  font-family: Arial, "Times New Roman", serif;
 	  font-size: 150%;
 	  float :left;
-	  height :600px;
-
+	  position: fixed; /* remove fixed*/
+	
 }
 nav a{
 	background-color: #ffffff;
