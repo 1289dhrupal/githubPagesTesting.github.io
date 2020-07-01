@@ -59,7 +59,7 @@ img{
   width: 75px;
 }
 
-@media screen and (min-width: 721px){
+@media screen and (min-width: 900px){
 .half, .whole{
 	width: 70%;
 	margin-right: 2%;
